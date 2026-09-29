@@ -246,7 +246,7 @@ def desbiderapen_tipikoa(datuak, lagina=False):
     return sqrt(bariantza(datuak, lagina))
 
 
-def laburpen_estatistikoa(datuak):
+def laburpen_estatistikoa(datuak):  
     """Datu-zerrenda baten laburpen estatistikoa kalkulatzen du.
 
     Batez besteko aritmetikoa, mediana, balio minimoa eta maximoa,
